@@ -1,0 +1,27 @@
+                         Project Jarvis
+                         ______________
+For this project the things are needed is in below:
+ 
+  1 - Speak()
+
+  2 - TakeCommand()
+
+  3 - TaskExecution()
+
+  4 - Wikipedia
+
+  5 - Open Application
+
+  6 - Close Application
+
+  8 - Open Any Websites
+
+  9 - Play Any Music
+
+ 10 - Play Any Youtube Video
+
+ 11 - Search Engine 
+
+ 12 - Dictionary
+
+ 13 - Calculator 
